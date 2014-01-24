@@ -1,0 +1,4 @@
+﻿1 - Install Sencha Cmd. In Windows, to "C:\Program Files (x86)\Sencha\Cmd"
+2 - Install Compass
+1 - Terminal to Sencha Touch SDK dir in your project. For example "lib/st2.3.0"
+2 - Run: sencha generate app -path="C:\Users\Fire\Documents\Projects\SenchaTouch2Class\ST2Class\st2tuts\9 - Recipes\6 - dashboard" -name dashboard
